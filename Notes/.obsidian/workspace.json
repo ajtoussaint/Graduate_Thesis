@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/Wang, Fei et al. 2022.md",
+                "file": "Models/NCDM.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/Wang, Fei et al. 2022.md",
+                "file": "Models/NCDM.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/Wang, Fei et al. 2022.md",
+                "file": "Models/NCDM.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/Wang, Fei et al. 2022.md"
+                "file": "Models/NCDM.md"
               }
             }
           }
@@ -146,25 +146,42 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2eb1652d4d96bad1",
+  "active": "9754524d5853113d",
   "lastOpenFiles": [
-    "Sources/pdfs",
-    "Datasets/ASSISTMENTS 2011.md",
+    "Datasets/MATH.md",
+    "Datasets/ASSIST09-10.md",
+    "Models/NCDM.md",
+    "Terms/monotonicity.md",
+    "Pasted image 20240522103054.png",
+    "Models/Images/NCDM/NCDM_Image_7.JPG",
+    "Models/Images/NCDM/~CDM_Image_6.tmp",
+    "Models/Images/NCDM/NCDM_Image_6.JPG",
+    "Models/DINA.md",
+    "Models/MIRT.md",
+    "Models/Images/NCDM",
+    "Models/Images/NCDM/NCDM_Image_5.JPG",
+    "Models/Images/NCDM/NCDM_Image_4.JPG",
+    "Models/Images/~CDM_Image_3.tmp",
+    "Models/Images/NCDM/NCDM_Image_3.JPG",
+    "Models/Images/~CDM_Image_2.tmp",
+    "Models/Images/NCDM/NCDM_Image_2.JPG",
     "Sources/Wang, Fei et al. 2022.md",
-    "Wang, Zhifeng, et al. 2023..md",
+    "Models/Images/~CDM_Image_1.tmp",
+    "Models/Images/NCDM/NCDM_Image_1.JPG",
+    "Terms",
+    "Models/Images",
     "Sources/Wang, Zhifeng et al. 2023.md",
+    "Sources/pdfs/NeuralCD_A_General_Framework_for_Cognitive_Diagnosis.pdf",
+    "Sources/pdfs",
+    "Wang, Zhifeng, et al. 2023..md",
     "Models/Evaluation Statistics/RMSE.md",
     "Models/Evaluation Statistics/ACC.md",
     "Models/Evaluation Statistics/AUC.md",
     "Models/CNCD-Q.md",
     "Models/CNCD-F.md",
     "Models/Ka-NCD.md",
-    "Models/NCDM.md",
     "create a link.md",
     "Models/Evaluation Statistics",
-    "Datasets",
-    "Models",
-    "Sources",
     "Welcome.md"
   ]
 }

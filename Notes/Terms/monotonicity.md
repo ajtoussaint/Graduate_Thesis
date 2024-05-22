@@ -1,0 +1,1 @@
+A function in monotonic when it only increases relative to its input. A monotonic function will never result in a smaller output value for a larger input.
