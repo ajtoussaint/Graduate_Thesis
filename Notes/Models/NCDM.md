@@ -25,7 +25,7 @@ The entire process is summarized in the following Image:![[NCDM_Image_1.JPG]]
 # Code Link
 [https://github.com/bigdata-ustc/Neural_Cognitive_Diagnosis-NeuralCD]
 # Performance
-Testing of the model was performed using a random split of data as well as a separate scenario where data was split to simulate performance when knowledge concept coverages of students' training data are low.
+Testing of the model was performed using a random split of data as well as a separate scenario where data was split to simulate performance when knowledge concept coverages of students' training data are low. Model performance was validated by its ability to correctly predict if a students response to an exercise would be correct.
 
 |  Dataset  | Condition | [[ACC]] | [[RMSE]]    | [[AUC]]   |
 | :-------: | :----: | :----: | :---------: | :---------: |
