@@ -1,0 +1,170 @@
+{
+  "main": {
+    "id": "0352cbd23c1768f2",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a159d82fb59e50f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9754524d5853113d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sources/Wang, Fei et al. 2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f141ab981712f86f",
+    "type": "split",
+    "children": [
+      {
+        "id": "108012347442162d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2eb1652d4d96bad1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c27db8bcbdec9b8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "7df8018e0983492d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "73cc5a86c4df871d",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce8c63747e06c801",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e707d2d430b217b8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sources/Wang, Fei et al. 2022.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "dcf30dd0ad561a39",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sources/Wang, Fei et al. 2022.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e2d4755ab1ae71f6",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fa06a974b747d9c4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sources/Wang, Fei et al. 2022.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2eb1652d4d96bad1",
+  "lastOpenFiles": [
+    "Sources/pdfs",
+    "Datasets/ASSISTMENTS 2011.md",
+    "Sources/Wang, Fei et al. 2022.md",
+    "Wang, Zhifeng, et al. 2023..md",
+    "Sources/Wang, Zhifeng et al. 2023.md",
+    "Models/Evaluation Statistics/RMSE.md",
+    "Models/Evaluation Statistics/ACC.md",
+    "Models/Evaluation Statistics/AUC.md",
+    "Models/CNCD-Q.md",
+    "Models/CNCD-F.md",
+    "Models/Ka-NCD.md",
+    "Models/NCDM.md",
+    "create a link.md",
+    "Models/Evaluation Statistics",
+    "Datasets",
+    "Models",
+    "Sources",
+    "Welcome.md"
+  ]
+}
