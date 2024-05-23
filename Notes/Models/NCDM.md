@@ -16,7 +16,7 @@ The NCDM model seeks to perform cognitive diagnosis by leveraging neural network
  4. Knowledge discrimination (hdisc) is determined by multiplying the exercise one-hot vector with a trainable matrix D. Values within D are restricted to being positive:![[NCDM_Image_5.JPG]]
  5. The first interaction of these 4 input variables is based on [[MIRT]] models. The open circle represents element wise multiplication of Qe and the result of (hs - hdiff):![[NCDM_Image_6.JPG]]
  
-6. The resulting vector x is then passed through two fully connected layers of a neural network and a final output layer that each have trainable weights and biases. The activation function used is the sigmoid function. The [[monotonicity]] assumption is implemented by restricting W1, W2, and W3 to non-negative values: 
+6. The resulting vector x is then passed through two fully connected layers of a neural network and a final output layer that each have trainable weights and biases. The layer dimensions were 512, 256, and 1 respectively. The activation function used is the sigmoid function. The [[monotonicity]] assumption is implemented by restricting W1, W2, and W3 to non-negative values: 
 ![[NCDM_Image_7.JPG]]
 
 The entire process is summarized in the following Image:![[NCDM_Image_1.JPG]]
@@ -25,7 +25,7 @@ The entire process is summarized in the following Image:![[NCDM_Image_1.JPG]]
 # Code Link
 [https://github.com/bigdata-ustc/Neural_Cognitive_Diagnosis-NeuralCD]
 # Performance
-Testing of the model was performed using a random split of data as well as a separate scenario where data was split to simulate performance when knowledge concept coverages of students' training data are low. Model performance was validated by its ability to correctly predict if a students response to an exercise would be correct.
+Testing of the model was performed using a random split of data as well as a separate scenario where data was split to simulate performance when knowledge concept coverages of students' training data are low. Model performance was validated by its ability to correctly predict if a students response to an exercise would be correct. Tests were performed with an 80/20 train test split using 5-fold cross validation runs to generate the results shown.
 
 |  Dataset  | Condition | [[ACC]] | [[RMSE]]    | [[AUC]]   |
 | :-------: | :----: | :----: | :---------: | :---------: |

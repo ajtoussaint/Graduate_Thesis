@@ -1,0 +1,3 @@
+Receiver Operator Characteristic curve is used to evaluate binary classification problems. Separates "signal" from "noise" by showing classification ability at all thresholds.
+
+The ROC curve for a set of predictions is developed by graphing the true positive rate against the false positive rate. A completely random test will show a linear trend. The more discriminatory the decision threshold is then the higher the ROC curve will be toward the top left of the graph.

@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "2a159d82fb59e50f",
+        "id": "b62cc79e74e996ec",
         "type": "tabs",
         "children": [
           {
-            "id": "9754524d5853113d",
+            "id": "edcc0cfe6e872c00",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datasets/ASSIST09-10.md",
+                "file": "Sources/Wang, Fei et al. 2022.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datasets/ASSIST09-10.md",
+                "file": "Sources/Wang, Fei et al. 2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datasets/ASSIST09-10.md",
+                "file": "Sources/Wang, Fei et al. 2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datasets/ASSIST09-10.md"
+                "file": "Sources/Wang, Fei et al. 2022.md"
               }
             }
           }
@@ -146,17 +146,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "9754524d5853113d",
+  "active": "edcc0cfe6e872c00",
   "lastOpenFiles": [
+    "Datasets/MATH.md",
+    "Datasets/Math1.md",
+    "Models/Evaluation Statistics/DOA.md",
+    "Models/Images/DOA/~OA_Image_1.tmp",
+    "Models/Images/DOA/DOA_Image_1.JPG",
+    "Models/Images/DOA",
+    "Models/Evaluation Statistics/ACC.md",
     "Models/Evaluation Statistics/AUC.md",
     "Models/Evaluation Statistics/RMSE.md",
-    "Models/Evaluation Statistics/ACC.md",
+    "Models/Evaluation Statistics/ROC Curve.md",
     "Models/NCDM.md",
-    "Sources/Wang, Fei et al. 2022.md",
-    "Datasets/ASSIST09-10.md",
-    "Terms/monotonicity.md",
-    "Terms",
+    "Sources/Chen, Xiangzhi, et al. 2024.md",
+    "Models/Ho-DINA.md",
+    "Models/DCD.md",
     "Sources/Wang, Zhifeng et al. 2023.md",
+    "Models/MIRT.md",
+    "Models/LDM-ID.md",
+    "Models/LDM-HMI.md",
+    "Models/Ka-NCD.md",
+    "Models/IRT.md",
+    "Models/DINA.md",
+    "Models/CNCD-Q.md",
+    "Models/CNCD-F.md",
+    "Datasets/Synthetic-5.md",
+    "Datasets/NIPS2020EC.md",
+    "Datasets/Matmat.md",
+    "Datasets/Junyi.md",
+    "Datasets/CL21.md",
+    "Sources/pdfs/NeuralCD_A_General_Framework_for_Cognitive_Diagnosis.pdf",
+    "Terms",
     "Models/Images/NCDM/NCDM_Image_7.JPG",
     "Models/Images/NCDM/NCDM_Image_6.JPG",
     "Models/Images/NCDM/NCDM_Image_4.JPG",
@@ -165,23 +186,11 @@
     "Models/Images/NCDM/NCDM_Image_2.JPG",
     "Models/Images/NCDM/NCDM_Image_1.JPG",
     "Models/Images/NCDM",
-    "Models/MIRT.md",
-    "Models/Ka-NCD.md",
     "Models/Images",
     "Models/Evaluation Statistics",
-    "Models/DINA.md",
-    "Models/CNCD-Q.md",
-    "Models/CNCD-F.md",
     "Models",
-    "Datasets/MATH.md",
     "Datasets",
     "Pasted image 20240522103054.png",
-    "Models/Images/NCDM/~CDM_Image_6.tmp",
-    "Models/Images/~CDM_Image_3.tmp",
-    "Models/Images/~CDM_Image_2.tmp",
-    "Models/Images/~CDM_Image_1.tmp",
-    "Wang, Zhifeng, et al. 2023..md",
-    "create a link.md",
-    "Welcome.md"
+    "Models/Images/NCDM/~CDM_Image_6.tmp"
   ]
 }
