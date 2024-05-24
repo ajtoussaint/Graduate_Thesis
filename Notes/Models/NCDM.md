@@ -27,10 +27,10 @@ The entire process is summarized in the following Image:![[NCDM_Image_1.JPG]]
 # Performance
 Testing of the model was performed using a random split of data as well as a separate scenario where data was split to simulate performance when knowledge concept coverages of students' training data are low. Model performance was validated by its ability to correctly predict if a students response to an exercise would be correct. Tests were performed with an 80/20 train test split using 5-fold cross validation runs to generate the results shown.
 
-|  Dataset  | Condition | [[ACC]] | [[RMSE]]    | [[AUC]]   |
-| :-------: | :----: | :----: | :---------: | :---------: |
-|  [[MATH]]  | Random data split | 0.792  | 0.378 | 0.820 |
-| [[ASSIST09-10]] | Random data split |  0.719  | 0.439   |  0.749   |
-| [[MATH]] | Weak-coverage data split |  0.735  |  0.432  |  0.649   |
-| [[ASSIST09-10]] | Weak-coverage data split |  0.710 |  0.455   |  0.633   |
+|     Dataset     |        Condition         | [[ACC]] | [[RMSE]] | [[AUC]] |
+| :-------------: | :----------------------: | :-----: | :------: | :-----: |
+|    [[MATH]]     |    Random data split     |  0.792  |  0.378   |  0.820  |
+| [[ASSIST09-10]] |    Random data split     |  0.719  |  0.439   |  0.749  |
+|    [[MATH]]     | Weak-coverage data split |  0.735  |  0.432   |  0.649  |
+| [[ASSIST09-10]] | Weak-coverage data split |  0.710  |  0.455   |  0.633  |
 
