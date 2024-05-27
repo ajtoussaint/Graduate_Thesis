@@ -1,1 +1,1 @@
-Dataset provided by iFLYTEK Co from a widely-used online learning system: Zhixue. The dataset does not appear to be publicly available. It was used in [[Wang, Fei et al. 2022]].
+Dataset provided by iFLYTEK Co from a widely-used online learning system: Zhixue. The dataset does not appear to be publicly available. It was used in [[Wang, Fei, et al. 2022]].

@@ -14,9 +14,9 @@ The CNCD-Q model is an extension of [[NCDM]] that is enhanced to include a large
 	 4. Multi-label binary cross entropy was used as a loss function
 2. For each exercise the trained CNN generates a one-hot vector "V" for the top "k" knowledge concepts present in the exercise
 3. The output vector "V" of the CNN is combined with the existing Q matrix using a pairwise Bayesian method that considers the Q-matrix to be more reliable.
-4. This new matrix is used in place of "Q" in NCDM
+4. This new matrix is used in place of "Q" in NCDM![[CNCD-Q_Image_1.JPG]]
 # Source Paper
-[[Wang, Fei et al. 2022]]
+[[Wang, Fei, et al. 2022]]
 # Code Link
 [https://github.com/bigdata-ustc/Neural_Cognitive_Diagnosis-NeuralCD]
 # Performance

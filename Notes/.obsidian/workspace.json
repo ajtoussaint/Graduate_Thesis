@@ -4,34 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "b62cc79e74e996ec",
+        "id": "65d9bad36c0b9f87",
         "type": "tabs",
         "children": [
           {
-            "id": "edcc0cfe6e872c00",
+            "id": "ee1f6c68d45ec623",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Models/NCDM.md",
+                "file": "Sources/Cognitive Diagnosis/Leighton, Gierl, Hunka 2004.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1a2e657855f758d3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Models/HO-DINA.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
-        "id": "f8e7e6a30f9671fa",
+        "id": "c672256cc04ca34d",
         "type": "tabs",
         "children": [
           {
-            "id": "1ee9ad2240233a0c",
+            "id": "815c53914c1e1617",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Models/CNCD-Q.md",
+                "file": "Sources/Cognitive Diagnosis/De La Torre, Douglas 2004.md",
                 "mode": "source",
                 "source": false
               }
@@ -87,7 +100,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "73cc5a86c4df871d",
@@ -103,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Models/CNCD-Q.md",
+                "file": "Sources/Cognitive Diagnosis/De La Torre, Douglas 2004.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +134,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Models/CNCD-Q.md",
+                "file": "Sources/Cognitive Diagnosis/De La Torre, Douglas 2004.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -143,7 +157,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Models/CNCD-Q.md"
+                "file": "Sources/Cognitive Diagnosis/De La Torre, Douglas 2004.md"
               }
             }
           }
@@ -164,52 +178,52 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1ee9ad2240233a0c",
+  "active": "815c53914c1e1617",
   "lastOpenFiles": [
+    "Models/HO-DINA.md",
+    "Sources/Cognitive Diagnosis/De La Torre, Douglas 2004.md",
+    "Sources/pdfs/HO-DINA.pdf",
+    "Sources/pdfs/delatorre2004.pdf.crdownload",
+    "Sources/Cognitive Diagnosis/Leighton, Gierl, Hunka 2004.md",
+    "Sources/Cognitive Diagnosis/Wang, Fei, et al. 2022.md",
+    "Sources/Cited/Chen 2015.md",
+    "Sources/Cited/Yu, Jifan, et al. 2020.md",
+    "Sources/pdfs/CNN for Sentence Classification.pdf",
+    "Sources/pdfs/Chen_Yahui.pdf.crdownload",
     "Models/NCDM.md",
-    "Models/CNCD-Q.md",
+    "Sources/pdfs/MOOCCube.pdf",
+    "Sources/pdfs/MOOCCube.pdf.crdownload",
+    "Sources/Cognitive Diagnosis/Chen, Xiangzhi, et al. 2024.md",
+    "Sources/Cognitive Diagnosis/Wang, Zhifeng, et al. 2023.md",
+    "Sources/Cited",
     "Models/Ka-NCD.md",
-    "Sources/Wang, Fei et al. 2022.md",
+    "Models/Images/Ka-NCD/Ka-NCD_Images_3.JPG",
+    "Models/Images/Ka-NCD/~a-NCD_Images_2.tmp",
+    "Models/Images/Ka-NCD/Ka-NCD_Images_2.JPG",
+    "Models/Images/Ka-NCD/~a-NCD_Images_1.tmp",
+    "Models/Images/Ka-NCD/Ka-NCD_Images_1.JPG",
+    "Models/Images/Ka-NCD",
+    "Models/CNCD-F.md",
+    "Models/CNCD-Q.md",
+    "Terms/monotonicity.md",
+    "Models/Images/CNCD-F/CNCD-F_Image_1.JPG",
+    "Models/Images/CNCD-Q/CNCD-Q_Image_1.JPG",
     "Datasets/MATH.md",
     "Datasets/Math1.md",
     "Models/Evaluation Statistics/DOA.md",
-    "Models/Images/DOA/~OA_Image_1.tmp",
     "Models/Images/DOA/DOA_Image_1.JPG",
-    "Models/Images/DOA",
     "Models/Evaluation Statistics/ACC.md",
     "Models/Evaluation Statistics/AUC.md",
     "Models/Evaluation Statistics/RMSE.md",
     "Models/Evaluation Statistics/ROC Curve.md",
-    "Sources/Chen, Xiangzhi, et al. 2024.md",
-    "Models/Ho-DINA.md",
     "Models/DCD.md",
-    "Sources/Wang, Zhifeng et al. 2023.md",
     "Models/MIRT.md",
     "Models/LDM-ID.md",
     "Models/LDM-HMI.md",
     "Models/IRT.md",
-    "Models/DINA.md",
-    "Models/CNCD-F.md",
-    "Datasets/Synthetic-5.md",
-    "Datasets/NIPS2020EC.md",
-    "Datasets/Matmat.md",
-    "Datasets/Junyi.md",
-    "Datasets/CL21.md",
-    "Sources/pdfs/NeuralCD_A_General_Framework_for_Cognitive_Diagnosis.pdf",
-    "Terms",
     "Models/Images/NCDM/NCDM_Image_7.JPG",
     "Models/Images/NCDM/NCDM_Image_6.JPG",
     "Models/Images/NCDM/NCDM_Image_4.JPG",
-    "Models/Images/NCDM/NCDM_Image_3.JPG",
-    "Models/Images/NCDM/NCDM_Image_5.JPG",
-    "Models/Images/NCDM/NCDM_Image_2.JPG",
-    "Models/Images/NCDM/NCDM_Image_1.JPG",
-    "Models/Images/NCDM",
-    "Models/Images",
-    "Models/Evaluation Statistics",
-    "Models",
-    "Datasets",
-    "Pasted image 20240522103054.png",
-    "Models/Images/NCDM/~CDM_Image_6.tmp"
+    "Models/Images/NCDM/NCDM_Image_3.JPG"
   ]
 }

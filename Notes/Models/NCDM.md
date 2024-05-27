@@ -21,7 +21,7 @@ The NCDM model seeks to perform cognitive diagnosis by leveraging neural network
 
 The entire process is summarized in the following Image:![[NCDM_Image_1.JPG]]
 # Source Paper
-[[Wang, Fei et al. 2022]]
+[[Wang, Fei, et al. 2022]]
 # Code Link
 [https://github.com/bigdata-ustc/Neural_Cognitive_Diagnosis-NeuralCD]
 # Performance
