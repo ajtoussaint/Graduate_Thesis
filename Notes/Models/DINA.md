@@ -18,8 +18,8 @@ A binary vector representing presence or absence of student skills with the maxi
 # Performance
 |     Dataset     |        Condition         | [[ACC]] | [[RMSE]] | [[AUC]] |
 | :-------------: | :----------------------: | :-----: | :------: | :-----: |
-|    [[MATH]]     |    Random data split     |  0.792  |  0.378   |  0.820  |
-| [[ASSIST09-10]] |    Random data split     |  0.719  |  0.439   |  0.749  |
-|    [[MATH]]     | Weak-coverage data split |  0.735  |  0.432   |  0.649  |
-| [[ASSIST09-10]] | Weak-coverage data split |  0.710  |  0.455   |  0.633  |
+|    [[MATH]]     |    Random data split     |  0.593  |  0.487   |  0.686  |
+| [[ASSIST09-10]] |    Random data split     |  0.650  |  0.467   |  0.676  |
+|    [[MATH]]     | Weak-coverage data split |  0.223  |  0.502   |  0.560  |
+| [[ASSIST09-10]] | Weak-coverage data split |  0.471  |  0.490   |  0.588  |
 Data taken from [[Wang, Fei, et al. 2022]] to be comparable to other models
