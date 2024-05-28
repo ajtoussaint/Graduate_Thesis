@@ -20,7 +20,7 @@ epoch_n = 5
 
 def train():
     data_loader = TrainDataLoader()
-    net = Net(student_n, exer_n, knowledge_n)
+    net = Net(student_n, exer_n, knowledge_n) #imports the Net Class from model.py
 
     net = net.to(device)
     optimizer = optim.Adam(net.parameters(), lr=0.002)
