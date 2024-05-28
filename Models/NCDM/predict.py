@@ -19,7 +19,8 @@ def test(epoch):
     device = torch.device('cpu')
     print('testing model...')
     data_loader.reset()
-    load_snapshot(net, 'model/model_epoch' + str(epoch))
+    load_snapshot(net, 'model/model_epoch' + str(epoch)) #loads trained model state
+    # similar code to validate in train.py
     net = net.to(device)
     net.eval()
 
@@ -63,8 +64,8 @@ def get_status():
     An example of getting student's knowledge status
     :return:
     '''
-    net = Net()
-    load_snapshot(net, 'model/model_epoch12')       # load model
+    net = Net(student_n, exer_n, knowledge_n)
+    load_snapshot(net, 'model/model_epoch5')       # load model #changed to 5 so the file can be found at a shorter train time -AT
     net.eval()
     with open('result/student_stat.txt', 'w', encoding='utf8') as output_file:
         for stu_id in range(student_n):
@@ -78,14 +79,14 @@ def get_exer_params():
     An example of getting exercise's parameters (knowledge difficulty and exercise discrimination)
     :return:
     '''
-    net = Net()
-    load_snapshot(net, 'model/model_epoch12')    # load model
+    net = Net(student_n, exer_n, knowledge_n)
+    load_snapshot(net, 'model/model_epoch5')    # load model #changed to 5 so the file can be found at a shorter train time -AT
     net.eval()
     exer_params_dict = {}
     for exer_id in range(exer_n):
         # get knowledge difficulty and exercise discrimination of exercise with exer_id (index)
         k_difficulty, e_discrimination = net.get_exer_params(torch.LongTensor([exer_id]))
-        exer_params_dict[exer_id + 1] = (k_difficulty.tolist()[0], e_difficulty.tolist()[0])
+        exer_params_dict[exer_id + 1] = (k_difficulty.tolist()[0], e_discrimination.tolist()[0])
     with open('result/exer_params.txt', 'w', encoding='utf8') as o_f:
         o_f.write(str(exer_params_dict))
 
@@ -101,3 +102,5 @@ if __name__ == '__main__':
         student_n, exer_n, knowledge_n = list(map(eval, i_f.readline().split(',')))
 
     test(int(sys.argv[1]))
+    get_status() # -AT
+    get_exer_params() # -AT
