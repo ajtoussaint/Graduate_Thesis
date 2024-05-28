@@ -10,3 +10,5 @@ Leighton, Jacqueline P., Mark J. Gierl, and Stephen M. Hunka. "The attribute hie
 
 # In Other Papers
 Cited by [[Wang, Fei, et al. 2022]] as evidence that latent traits govern student's mastery of knowledge concepts and therefore it is not valid to assume the concept proficiencies are independent.
+
+Cited in [[De La Torre 2009]] as a reference for hierarchical skill structures

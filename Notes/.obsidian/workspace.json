@@ -4,66 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "65d9bad36c0b9f87",
+        "id": "174d1cb052e6658e",
         "type": "tabs",
         "children": [
           {
-            "id": "ee1f6c68d45ec623",
+            "id": "60cf0a08bcaec9e2",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/Cognitive Diagnosis/Leighton, Gierl, Hunka 2004.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1a2e657855f758d3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Models/HO-DINA.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
-      },
-      {
-        "id": "c672256cc04ca34d",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "815c53914c1e1617",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sources/Cognitive Diagnosis/De La Torre, Douglas 2004.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ccb2f59df8ab986b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Models/NCDM.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -129,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Models/HO-DINA.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Models/HO-DINA.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Models/HO-DINA.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -190,10 +138,20 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1a2e657855f758d3",
+  "active": "60cf0a08bcaec9e2",
   "lastOpenFiles": [
+    "Models/DINA.md",
+    "Sources/Cognitive Diagnosis/De La Torre, Douglas 2004.md",
+    "Sources/Cognitive Diagnosis/De La Torre 2009.md",
+    "Models/Images/DINA/~INA_Image_1.tmp",
+    "Models/Images/DINA/DINA_Image_1.JPG",
+    "Models/Images/DINA",
+    "Models/Images/New folder",
     "Models/NCDM.md",
     "Models/HO-DINA.md",
+    "Sources/Cognitive Diagnosis/Leighton, Gierl, Hunka 2004.md",
+    "Sources/pdfs/de la Torre 2009 - DINA.pdf",
+    "Sources/pdfs/document.pdf.crdownload",
     "Sources/Cognitive Diagnosis/Chen, Xiangzhi, et al. 2024.md",
     "Models/Images/HO-DINA/~O-DINA_Image_4.tmp",
     "Models/Images/HO-DINA/HO-DINA_Image_4.JPG",
@@ -204,16 +162,9 @@
     "Models/Images/HO-DINA/~O-DINA_Image_1.tmp",
     "Models/Images/HO-DINA/HO-DINA_Image_1.JPG",
     "Models/Images/HO-DINA",
-    "Models/Images/New folder",
-    "Sources/Cognitive Diagnosis/De La Torre, Douglas 2004.md",
-    "Sources/pdfs/HO-DINA.pdf",
-    "Sources/pdfs/delatorre2004.pdf.crdownload",
-    "Sources/Cognitive Diagnosis/Leighton, Gierl, Hunka 2004.md",
     "Sources/Cognitive Diagnosis/Wang, Fei, et al. 2022.md",
     "Sources/Cited/Chen 2015.md",
     "Sources/Cited/Yu, Jifan, et al. 2020.md",
-    "Sources/pdfs/CNN for Sentence Classification.pdf",
-    "Sources/pdfs/Chen_Yahui.pdf.crdownload",
     "Sources/Cognitive Diagnosis/Wang, Zhifeng, et al. 2023.md",
     "Models/Ka-NCD.md",
     "Models/Images/Ka-NCD/Ka-NCD_Images_3.JPG",
@@ -227,15 +178,12 @@
     "Datasets/MATH.md",
     "Datasets/Math1.md",
     "Models/Evaluation Statistics/DOA.md",
-    "Models/Images/DOA/DOA_Image_1.JPG",
     "Models/Evaluation Statistics/ACC.md",
     "Models/Evaluation Statistics/AUC.md",
     "Models/Evaluation Statistics/RMSE.md",
     "Models/Evaluation Statistics/ROC Curve.md",
     "Models/DCD.md",
     "Models/MIRT.md",
-    "Models/LDM-ID.md",
-    "Models/LDM-HMI.md",
-    "Models/IRT.md"
+    "Models/LDM-ID.md"
   ]
 }

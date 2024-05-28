@@ -20,3 +20,4 @@ De La Torre, Jimmy, and Jeffrey A. Douglas. "Higher-order latent trait models fo
 
 # In Other Papers
 Cited by [[Wang, Fei, et al. 2022]] for comparison of [[HO-DINA]] model and as evidence that latent traits govern student's mastery of knowledge concepts and therefore it is not valid to assume the concept proficiencies are independent.
+
