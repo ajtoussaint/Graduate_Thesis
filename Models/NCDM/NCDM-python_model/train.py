@@ -9,7 +9,7 @@ from data_loader import TrainDataLoader, ValTestDataLoader
 from model import Net
 
 
-# can be changed according to config.txt
+# will be changed according to config.txt on run
 exer_n = 17746
 knowledge_n = 123
 student_n = 4163
