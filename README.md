@@ -26,5 +26,3 @@ Each file contains notes on a published paper relevant to this project. The titl
 
 ## Terms
 As I encounter technical terms that are frequently repeated throughout the literature I create notes describing these terms in the context of cognitive diagnosis models for clarity. 
-
-
