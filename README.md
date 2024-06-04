@@ -7,7 +7,7 @@ WKU 2024-2025
 Includes code for various cognitive diagnosis models that will be compared to the model I am creating. Each folder contains a different model and an individual README file describing the model and the source. Some models are copied directly from exisitng github repositories which are cited within the folder as well.
 
 ## Notes
-Includes papers I will be citing, descriptions of models, descriptions of datasets, and miscellaneous notes I have taken while reading relevant papers. The notes folder is best read by using the (obsidian)[https://obsidian.md/download] app which can be downloaded for free. If you are not using obsidian there are a few peculiarities in the markdonw that will be explained below.
+Includes papers I will be citing, descriptions of models, descriptions of datasets, and miscellaneous notes I have taken while reading relevant papers. The notes folder is best read by using the [obsidian](https://obsidian.md/download) app which can be downloaded for free. If you are not using obsidian there are a few peculiarities in the markdonw that will be explained below.
 
 [[<File Name>]] is a link to another markdown file within the "Notes" directory. The text inside the brackets will be the exact file name and possibly a file path if multiple files share the name.
 
