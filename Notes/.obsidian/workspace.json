@@ -8,31 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "bfa623ff81f430ff",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Models/DINA.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "1c5bdbe7808800a4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/Cited/Reckase 2006.md",
+                "file": "Models/IRT.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/Cited/Reckase 2006.md",
+                "file": "Models/IRT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/Cited/Reckase 2006.md",
+                "file": "Models/IRT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/Cited/Reckase 2006.md"
+                "file": "Models/IRT.md"
               }
             }
           }
@@ -161,11 +148,11 @@
   },
   "active": "1c5bdbe7808800a4",
   "lastOpenFiles": [
-    "Models/DINA.md",
+    "Models/NCDM.md",
     "Models/IRT.md",
+    "Models/DINA.md",
     "Sources/Cited/Reckase 2006.md",
     "Models/HO-DINA.md",
-    "Models/NCDM.md",
     "Sources/Cited/Chen 2015.md",
     "Models/Images/IRT/IRT_Image_7.JPG",
     "Models/Images/IRT/IRT_Image_6.JPG",
