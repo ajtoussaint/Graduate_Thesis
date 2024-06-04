@@ -43,6 +43,8 @@ The various formulations of IRT's f-function commonly used are as follows:
 	- max slope is still at b=theta
 	- A given question is less discriminating (ICC has smaller max slope) due to presence of guessing
 	- Empirical estimates of guess parameter often show it as less than 1/(number of possible responses) indicating those who get the answer wrong were most likely not randomly guessing
+	- In some cases the formula is written as: ![[IRT_Image_6.1.JPG]]
+	- [nces]([NAEP Analysis and Scaling - The Three-Parameter Logistic Model (ed.gov)](https://nces.ed.gov/nationsreportcard/tdw/analysis/scaling_models_3pl.aspx))This version of the formula includes the 1.7 constant to equate the ICC curves to the normal ogive model mentioned below. This was used in the EduCDM model zoo by default. Brief testing showed results were comprable between the two formulas with this one being slightly better.
 - Normal ogive (Three parameter)
 	- ![[IRT_Image_7.JPG]]
 	- z = (a_i * (theta_j - b_i))

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datasets/ASSIST09-10.md",
+                "file": "Models/IRT.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datasets/ASSIST09-10.md",
+                "file": "Models/IRT.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datasets/ASSIST09-10.md",
+                "file": "Models/IRT.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datasets/ASSIST09-10.md"
+                "file": "Models/IRT.md"
               }
             }
           }
@@ -148,15 +148,17 @@
   },
   "active": "1c5bdbe7808800a4",
   "lastOpenFiles": [
+    "Models/Images/IRT/~RT_Image_6.1.tmp",
+    "Models/Images/IRT/IRT_Image_6.1.JPG",
+    "Sources/Cited/Reckase 2006.md",
+    "Datasets/ASSIST09-10.md",
     "Models/CNCD-Q.md",
     "Models/CNCD-F.md",
     "Models/Ka-NCD.md",
     "Datasets/NIPS2020EC.md",
-    "Datasets/ASSIST09-10.md",
     "Models/IRT.md",
     "Models/NCDM.md",
     "Models/DINA.md",
-    "Sources/Cited/Reckase 2006.md",
     "Models/HO-DINA.md",
     "Sources/Cited/Chen 2015.md",
     "Models/Images/IRT/IRT_Image_7.JPG",
@@ -182,7 +184,6 @@
     "Models/Images/HO-DINA/~O-DINA_Image_4.tmp",
     "Models/Images/HO-DINA/HO-DINA_Image_4.JPG",
     "Models/Images/HO-DINA/~O-DINA_Image_3.tmp",
-    "Models/Images/HO-DINA/HO-DINA_Image_3.JPG",
     "Sources/Cognitive Diagnosis/Wang, Fei, et al. 2022.md",
     "Sources/Cited/Yu, Jifan, et al. 2020.md",
     "Sources/Cognitive Diagnosis/Wang, Zhifeng, et al. 2023.md",
@@ -192,7 +193,6 @@
     "Models/Evaluation Statistics/DOA.md",
     "Models/Evaluation Statistics/ACC.md",
     "Models/Evaluation Statistics/AUC.md",
-    "Models/Evaluation Statistics/RMSE.md",
-    "Models/Evaluation Statistics/ROC Curve.md"
+    "Models/Evaluation Statistics/RMSE.md"
   ]
 }
