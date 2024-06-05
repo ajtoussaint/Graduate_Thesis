@@ -2,6 +2,8 @@
 
 Data was collected from 2004-2006 from two middle schools in Massachusetts. ASSISTMENTS included 493 main questions and an additional 1216 scaffolding questions. 912 8th grade students performance in the system was logged from September to May for each school year. Complete data from 417 students was obtained for the data set for the 2004-2005  school year and 616 students from the 2005-2006 school year.
 
+According to [[Wang, Fei, et al. 2022]] the assist data logs are stable and viable for use with statistic models.
+
 Feng, M., Heffernan, N.T., & Koedinger, K.R. (2009). Addressing the assessment challenge in an Intelligent Tutoring System that tutors as it assesses. _The Journal of User Modeling and User-Adapted Interaction, 19_, 243-266
 
 ## Columns
