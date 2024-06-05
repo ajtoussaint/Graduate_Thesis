@@ -52,4 +52,12 @@ The various formulations of IRT's f-function commonly used are as follows:
 # Source Paper
 [[Reckase 2006]]
 
-## Performance
+# Performance
+
+|     Dataset     |        Condition         | [[ACC]] | [[RMSE]] | [[AUC]] |
+| :-------------: | :----------------------: | :-----: | :------: | :-----: |
+|    [[MATH]]     |    Random data split     |  .782   |   .387   |  .795   |
+| [[ASSIST09-10]] |    Random data split     |  .674   |   .464   |  .685   |
+|    [[MATH]]     | Weak-coverage data split |  .624   |   .467   |  .638   |
+| [[ASSIST09-10]] | Weak-coverage data split |  .657   |   .464   |  .633   |
+Data taken from [[Wang, Fei, et al. 2022]] to be comparable to other models. Notably [[MIRT]] performs better than IRT when knowledge concepts are accurately covered, and worse when there is weak coverage.

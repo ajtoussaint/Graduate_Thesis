@@ -6,6 +6,9 @@ The DINA model assumes that each latent skill variable is independent of other l
 ## Output Data
 A binary vector representing presence or absence of student skills with the maximum likelihood of being accurate. The model also generates guess and slip rates for each exercise. 
 ## Process
+1. A given students response to a question is formulated by: 
+![[DINA_Image_0.JPG]]
+	where "nu" is the response (0 = incorrect 1 = correct), "a" is the presence or absence of a knowledge concept, and q is the standard q matrix. Therefore, if a student possesses all of the knowledge concepts they will answer the question correctly, otherwise they will not. Sometimes slip and guess parameters are included
 1. The marginal maximum likelihood of skill presence is formulated as shown:![[DINA_Image_1.JPG]]
 	- X = matrix of student responses to exercises
 	- alpha = skill vector

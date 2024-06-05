@@ -1,0 +1,4 @@
+- Examine how data from the datasets is filtered, there may be an improved filtering technique that can improve performance
+- Use a model to determine which knowledge concepts are compensatory and which are partially compensatory ([[MIRT]]) before applying a unique MIRT formulation that combines the two models
+	- Some skills could also be deterministic based on [[DINA]]
+- Add a slip term if one is not being used
