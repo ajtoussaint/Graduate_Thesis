@@ -4,40 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "140e2c7b05ef254e",
+        "id": "3d8f6af4e72dcf64",
         "type": "tabs",
         "children": [
           {
-            "id": "b72ae9608b776629",
+            "id": "d09f281c5fade57e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datasets/ASSIST09-10.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "26da6fbbc0fce7fd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Models/IRT.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1fbe7761b48eb07d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Models/DINA.md",
+                "file": "Sources/Cited/Maris 1999.md",
                 "mode": "source",
                 "source": false
               }
@@ -93,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "73cc5a86c4df871d",
@@ -110,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Datasets/ASSIST09-10.md",
+                "file": "Sources/Cited/Maris 1999.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Datasets/ASSIST09-10.md",
+                "file": "Sources/Cited/Maris 1999.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Datasets/ASSIST09-10.md"
+                "file": "Sources/Cited/Maris 1999.md"
               }
             }
           }
@@ -171,12 +146,24 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "b72ae9608b776629",
+  "active": "d09f281c5fade57e",
   "lastOpenFiles": [
-    "Possible Opportunities for Model Improvement.md",
+    "Sources/pdfs/Maris 1999.pdf",
+    "Sources/pdfs/HO-DINA.pdf",
+    "Sources/Cited/Maris 1999.md",
+    "Sources/pdfs/de la Torre 2009 - DINA.pdf",
+    "Sources/Cognitive Diagnosis/De La Torre, Douglas 2004.md",
+    "Sources/Cognitive Diagnosis/De La Torre 2009.md",
+    "Sources/Cited/Leighton, Gierl, Hunka 2004.md",
     "Models/MIRT.md",
-    "Models/IRT.md",
     "Sources/Cited/Reckase 2006.md",
+    "Sources/Cognitive Diagnosis/Chen, Xiangzhi, et al. 2024.md",
+    "Sources/Cognitive Diagnosis/Wang, Zhifeng, et al. 2023.md",
+    "Sources/Cognitive Diagnosis/Wang, Fei, et al. 2022.md",
+    "Sources/Cited/Tatsuoka 2002.md",
+    "Datasets/ASSIST09-10.md",
+    "Possible Opportunities for Model Improvement.md",
+    "Models/IRT.md",
     "Sources/pdfs/Chen 2015.pdf",
     "Sources/Cited/Chen 2015.md",
     "Sources/pdfs/MIRT.pdf",
@@ -192,9 +179,7 @@
     "Models/Images/MIRT",
     "Models/Images/New folder",
     "Sources/pdfs/Multidimensional Item Response Theory.pdf",
-    "Models/Images/IRT/~RT_Image_6.1.tmp",
     "Models/Images/IRT/IRT_Image_6.1.JPG",
-    "Datasets/ASSIST09-10.md",
     "Models/CNCD-Q.md",
     "Models/CNCD-F.md",
     "Models/Ka-NCD.md",
@@ -205,18 +190,9 @@
     "Models/Images/IRT/IRT_Image_5.JPG",
     "Models/Images/IRT/IRT_Image_4.JPG",
     "Models/Images/IRT/IRT_Image_3.JPG",
-    "Models/Images/IRT/~RT_Image_2.tmp",
-    "Sources/Cognitive Diagnosis/De La Torre, Douglas 2004.md",
-    "Sources/Cognitive Diagnosis/De La Torre 2009.md",
-    "Sources/Cognitive Diagnosis/Leighton, Gierl, Hunka 2004.md",
-    "Sources/Cognitive Diagnosis/Chen, Xiangzhi, et al. 2024.md",
-    "Sources/Cognitive Diagnosis/Wang, Fei, et al. 2022.md",
     "Sources/Cited/Yu, Jifan, et al. 2020.md",
-    "Sources/Cognitive Diagnosis/Wang, Zhifeng, et al. 2023.md",
     "Terms/monotonicity.md",
     "Datasets/MATH.md",
-    "Datasets/Math1.md",
-    "Models/Evaluation Statistics/DOA.md",
-    "Models/Evaluation Statistics/ACC.md"
+    "Datasets/Math1.md"
   ]
 }
