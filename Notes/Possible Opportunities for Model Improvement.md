@@ -1,5 +1,9 @@
 - Examine how data from the datasets is filtered, there may be an improved filtering technique that can improve performance
 	- Comparing MIRT ipynb implementation to NCDM paper shows that ipynb does not filter data the same way
+	- MIRT should use expectation max instead of GD
+- 5x cross validation should be used in final draft of all ipynbs
 - Use a model to determine which knowledge concepts are compensatory and which are partially compensatory ([[MIRT]]) before applying a unique MIRT formulation that combines the two models
 	- Some skills could also be deterministic based on [[DINA]]
 - Add a slip term if one is not being used
+- Combining skills as a skill
+- Often times the questions with the highest discrimination are the least useful in practice
