@@ -8,18 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "d09f281c5fade57e",
+            "id": "1c6c6b8b577e8877",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sources/Cited/Maris 1999.md",
+                "file": "Sources/Cognitive Diagnosis/Shen, Liu, et al. 2020.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0486040396f35ede",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Neural Network Potential Sources.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#todo",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Sources/Cited/Maris 1999.md",
+                "file": "Neural Network Potential Sources.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Sources/Cited/Maris 1999.md",
+                "file": "Neural Network Potential Sources.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Sources/Cited/Maris 1999.md"
+                "file": "Neural Network Potential Sources.md"
               }
             }
           }
@@ -146,53 +159,53 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d09f281c5fade57e",
+  "active": "0486040396f35ede",
   "lastOpenFiles": [
-    "Possible Opportunities for Model Improvement.md",
+    "Sources/Cognitive Diagnosis/Shen, Liu, et al. 2020.md",
+    "Neural Network Potential Sources.md",
+    "Sources/pdfs/Shen, Liu 2020.pdf",
+    "Sources/pdfs/track_1_2.pdf.crdownload",
+    "Sources/Cognitive Diagnosis/Shah, Olson, et al. 2020.md",
+    "Sources/pdfs/Shah, Olson 2020.pdf",
+    "Sources/pdfs/NeurIPS_2020_Diagnostic_Questions_Challenge.pdf.crdownload",
+    "Sources/Cognitive Diagnosis/Ghosh, Lan 2020.md",
+    "Sources/pdfs/Ghosh, Lan 2020.pdf",
+    "Sources/pdfs/task_1_2_edu_neurips_ghosh_lan.pdf.crdownload",
+    "Sources/Cognitive Diagnosis/Wang, Fei, et al. 2022.md",
+    "Sources/Cognitive Diagnosis/Takehara, Shinahara 2020.md",
+    "Sources/Cognitive Diagnosis/De La Torre, Douglas 2004.md",
     "Sources/Cognitive Diagnosis/De La Torre 2009.md",
+    "Sources/Cognitive Diagnosis/Chen, Xiangzhi, et al. 2024.md",
+    "Sources/pdfs/Takehara, Shinahara 2020.pdf",
+    "Sources/pdfs/report_task_1_2.pdf.crdownload",
+    "Sources/Cognitive Diagnosis/Wang, Zhifeng, et al. 2023.md",
+    "Datasets/CL21.md",
+    "Datasets/Synthetic-5.md",
+    "Datasets/NIPS2020EC.md",
+    "Datasets/Matmat.md",
+    "Datasets/Math1.md",
+    "Datasets/MATH.md",
+    "Datasets/Junyi.md",
+    "Datasets/ASSIST09-10.md",
+    "Sources/Cognitive Diagnosis/Wang Zichao, et al. 2021.md",
+    "Sources/Neural Networks",
+    "Sources/pdfs/Wang, Zhifeng, - 2023.pdf",
+    "Sources/Cited/Reckase 2006.md",
+    "Sources/Cited/Maris 1999.md",
+    "Possible Opportunities for Model Improvement.md",
     "Models/Ka-NCD.md",
     "Models/HO-DINA.md",
     "Models/CNCD-Q.md",
     "Models/CNCD-F.md",
-    "Models/DCD.md",
-    "Models/LDM-ID.md",
-    "Models/LDM-HMI.md",
-    "Models/IRT.md",
-    "Models/DINA.md",
-    "Sources/Cited/Maris 1999.md",
-    "Sources/pdfs/Maris 1999.pdf",
-    "Sources/pdfs/HO-DINA.pdf",
-    "Sources/pdfs/de la Torre 2009 - DINA.pdf",
-    "Sources/Cognitive Diagnosis/De La Torre, Douglas 2004.md",
-    "Sources/Cited/Leighton, Gierl, Hunka 2004.md",
-    "Models/MIRT.md",
-    "Sources/Cited/Reckase 2006.md",
-    "Sources/Cognitive Diagnosis/Chen, Xiangzhi, et al. 2024.md",
-    "Sources/Cognitive Diagnosis/Wang, Zhifeng, et al. 2023.md",
-    "Sources/Cognitive Diagnosis/Wang, Fei, et al. 2022.md",
-    "Sources/Cited/Tatsuoka 2002.md",
-    "Datasets/ASSIST09-10.md",
-    "Sources/pdfs/Chen 2015.pdf",
-    "Sources/Cited/Chen 2015.md",
-    "Sources/pdfs/MIRT.pdf",
-    "Sources/pdfs/NCDM.pdf",
     "Models/Images/DINA/DINA_Image_0.JPG",
-    "Models/Images/MIRT/~IRT_Image_3.tmp",
     "Models/Images/MIRT/MIRT_Image_3.JPG",
     "Models/Images/MIRT/MIRT_Image_2.JPG",
-    "Models/Images/MIRT/~IRT_Image_1.tmp",
     "Models/Images/MIRT/MIRT_Image_1.JPG",
-    "Models/Images/MIRT",
-    "Models/Images/New folder",
     "Models/Images/IRT/IRT_Image_6.1.JPG",
-    "Datasets/NIPS2020EC.md",
-    "Models/NCDM.md",
     "Models/Images/IRT/IRT_Image_7.JPG",
     "Models/Images/IRT/IRT_Image_6.JPG",
     "Models/Images/IRT/IRT_Image_5.JPG",
     "Models/Images/IRT/IRT_Image_4.JPG",
-    "Models/Images/IRT/IRT_Image_3.JPG",
-    "Sources/Cited/Yu, Jifan, et al. 2020.md",
-    "Terms/monotonicity.md"
+    "Models/Images/IRT/IRT_Image_3.JPG"
   ]
 }

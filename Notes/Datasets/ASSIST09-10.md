@@ -42,6 +42,6 @@ Feng, M., Heffernan, N.T., & Koedinger, K.R. (2009). Addressing the assessment c
 ## Links
 [assistments_2009_2010.zip - Google Drive](https://drive.google.com/file/d/0B2X0QD6q79ZJNEdiMHkyb0RNQlE/view?resourcekey=0-hZLp6qVFN8i6y0D3BbVuoQ)
 
-https://sites.google.com/site/assistmentsdata/home/assistment-2009-2010-data/combined-dataset-2009-10
+[ASSISTmentsData - 2009-2010 ASSISTment Data (google.com)](https://sites.google.com/site/assistmentsdata/home/2009-2010-assistment-data)
 
 [ASSISTmentsData (google.com)](https://sites.google.com/site/assistmentsdata/datasets?authuser=0)
