@@ -7,3 +7,4 @@
 - Add a slip term if one is not being used
 - Combining skills as a skill
 - Often times the questions with the highest discrimination are the least useful in practice
+- Improve performance by mining the interrelations of concepts and excluding spaces in the Q matrix where concepts never overlap. Alternatively mine the relationships between concepts based on where and how often they overlap
