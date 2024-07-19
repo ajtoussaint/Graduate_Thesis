@@ -1,0 +1,3 @@
+- The [[Exponential Distribution]] is a [[Probability Distribution]] notable for its sharp point at x=0
+	- $p(x;\lambda) = \lambda l_{x \ge 0} exp(-\lambda x)$ 
+	- $l_{x \ge 0}$ is an "indicator function" that assigns a probability of 0 to any negative x

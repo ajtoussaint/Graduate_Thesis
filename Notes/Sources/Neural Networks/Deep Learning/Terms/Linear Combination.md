@@ -1,0 +1,1 @@
+- a set of vectors multiplied by a corresponding scalar and summed $\sum_i c_{i}v^{(i)}$ 

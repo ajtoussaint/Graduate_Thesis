@@ -1,0 +1,2 @@
+- Typically represented by $\epsilon$
+- The rate of change between steps when performing [[Gradient Descent]]

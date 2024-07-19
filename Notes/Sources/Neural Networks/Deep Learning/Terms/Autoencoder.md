@@ -1,0 +1,1 @@
+-  includes both an encoder and a decoder that are designed to preserve information and encode useful properties

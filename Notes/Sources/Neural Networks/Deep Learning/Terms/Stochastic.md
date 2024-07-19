@@ -1,0 +1,1 @@
+[[Stochastic]] is another word for non-deterministic

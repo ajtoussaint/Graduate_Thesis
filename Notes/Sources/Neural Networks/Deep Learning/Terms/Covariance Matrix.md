@@ -1,0 +1,3 @@
+- The [[Covariance Matrix]] of a vector is size n x n and $Cov(x)_{i,j} = Cov(x_i,x_j)$
+	- The [[Diagonal]] elements of the [[Matrix]] give the [[Variance]] : $Cov(x_i,x_i) = Var_x(x_i)$ 
+	- [[Covariance]]

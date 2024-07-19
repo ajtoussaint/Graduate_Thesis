@@ -1,0 +1,1 @@
+- A [[Vector]] or [[Matrix]] is normal if it has a [[Unit]] [[Norm]]

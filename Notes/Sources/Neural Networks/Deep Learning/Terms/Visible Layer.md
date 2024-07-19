@@ -1,0 +1,1 @@
+- includes the raw inputs, hidden layer includes the intermediate steps taken by the machine model

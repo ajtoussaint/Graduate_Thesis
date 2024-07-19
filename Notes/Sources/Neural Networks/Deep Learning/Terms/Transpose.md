@@ -1,0 +1,1 @@
+- The transpose of a matrix converts the columns to rows and incidentally vice versa 

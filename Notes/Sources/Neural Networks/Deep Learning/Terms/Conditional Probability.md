@@ -1,0 +1,3 @@
+- [[Conditional Probability]] is the probability of some event occurring given that another event did occur: $P(y=y | x=x)$ (Probability of y given x)
+	- $P(y=y | x=x) = P(y=y, x=x)/P(x=x)$ 
+	- This does not work when interpreted as the consequences of an action

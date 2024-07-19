@@ -1,0 +1,1 @@
+- [[Line Search]] is a version of [[Gradient Descent]] where $\epsilon$ is chosen from one of several values such that it minimizes the [[Objective Function]]

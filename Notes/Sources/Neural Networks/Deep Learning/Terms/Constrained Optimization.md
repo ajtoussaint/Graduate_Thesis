@@ -1,0 +1,4 @@
+- [[Constrained Optimization]] is a type of optimization problem where the [[Objective Function]] is restricted to only a specified set of inputs and the optimal input within this set must be determined.
+	- [[Feasible Point]] is a point within the subset $\mathbb{S}$ that may be applied to the function
+	- Use [[Line Search]] [[Gradient Descent]] to adjust the [[Learning Rate]], $\epsilon$, so that only values in $\mathbb{S}$ are iterated through
+	- Could also use a transformation to modify the original problem arithmetically and change the solution space

@@ -1,0 +1,2 @@
+- [[Curvature]] is the term used to describe the second derivative of a function. It relates the magnitude of the improvement that will be obtained by following the gradient
+	- The curvature can be used to determine what type of [[Critical Point]] a function is at: positive is a relative minimum, negative is a relative maximum, 0 is not necessarily a saddle point, the type cannot be determined. This is called the [[Second Derivative Test]]

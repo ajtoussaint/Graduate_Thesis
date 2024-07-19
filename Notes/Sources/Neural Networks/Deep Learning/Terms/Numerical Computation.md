@@ -1,0 +1,4 @@
+- [[Numerical Computation]] is the use of an algorithm to solve an equation by incrementally updating an estimate of the correct answer until you can be sure that it is correct within a certain margin of error
+	- The process is optimized by finding the min or max of a function by changing the input. Typically the min is used and if you want to find the max just multiply by -1
+	- [[System of Linear Equations]] must be solved to optimize
+	- Computers will always have some level of approximation error in this process because a continuous $\mathbb{R}$eal number cannot be exactly represented with bits

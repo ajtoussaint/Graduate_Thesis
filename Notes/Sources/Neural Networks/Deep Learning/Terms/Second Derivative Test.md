@@ -1,0 +1,1 @@
+The curvature can be used to determine what type of [[Critical Point]] a function is at: positive is a relative minimum, negative is a relative maximum, 0 is not necessarily a saddle point, the type cannot be determined.

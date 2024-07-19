@@ -1,0 +1,1 @@
+- [[Overflow]] occurs when a large number is rounded to $\frac{+}{-}\infty$ and causes similar errors

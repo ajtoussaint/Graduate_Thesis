@@ -1,0 +1,4 @@
+- The [[Objective Function]] aka the criterion is the function f(x) that we desire to optimize
+	- aka cost/loss/error
+	- $x^*$ is the theoretical optimal value for this function
+	- We can use the derivative to determine what changes need to be made to the function input to optimize the output

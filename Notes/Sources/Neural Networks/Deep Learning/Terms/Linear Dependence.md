@@ -1,0 +1,1 @@
+- a set of [[Vector|vectors]] within a [[Matrix]] are linearly dependent if they are redundant

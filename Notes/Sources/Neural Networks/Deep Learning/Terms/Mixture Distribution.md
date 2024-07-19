@@ -1,0 +1,2 @@
+- The [[Mixture Distribution]] is a [[Probability Distribution]] that combines several component distributions. On any given trial the distributions are sampled to generate a result.
+	- $P(x) = \sum P(c=i)P(x|c=i)$ where P(c) is each component distribution

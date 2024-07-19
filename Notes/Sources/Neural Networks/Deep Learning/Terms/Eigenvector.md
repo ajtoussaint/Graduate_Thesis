@@ -1,0 +1,2 @@
+An [[Eigenvector]] is a [[Vector]] corresponding to some [[Matrix]] that, when multiplied by its matrix, maintains the ratio between its components but is scaled
+	- $Av = \lambda v$ ($v$ is the [[Eigenvector]] and $\lambda$ is an [[Eigenvalue]]) 

@@ -1,0 +1,5 @@
+- [[Softplus Function]] is used to produce $\beta$ or $\sigma$ for a [[Gaussian Distribution]]
+	- $\zeta(x) = log(1+exp(-x))$ 
+	- Range is (0, $\infty$ )
+	- A smoothed out version of the [[Rectify Linear Unit]] function that includes some negative values
+		- [[Rectify Linear Unit]] makes negatives 0 and positives unchanged

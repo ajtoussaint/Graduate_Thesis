@@ -1,0 +1,3 @@
+- A [[Positive]] [[Matrix]] includes only positive values including 0
+	- For a [[Positive]] [[Definite]] [[Matrix]] $x^TAx = 0 \therefore x=0$ 
+	- - For a [[Positive]] [[Semidefinite]] [[Matrix]] $\forall x, x^TAx\ge0$ 

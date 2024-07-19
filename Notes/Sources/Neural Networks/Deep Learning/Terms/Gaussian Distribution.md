@@ -1,0 +1,10 @@
+- [[Gaussian Distribution]] is also called the normal distribution.
+	- $\mathcal{N}(x;\mu,\sigma^2) = \sqrt{1/(2\pi\sigma^2)}exp(-1/(2\sigma^2)(x-\mu)^2)$ 
+	- $\mu\in\mathbb{R}, \sigma\in(0,\infty)$
+	- $\mathbb{E}[x] = \mu$ which is at the central peak of the distribution
+	- $\sigma$ is the [[Standard Deviation]] and $\sigma^2$ is the [[Variance]]
+	- $\beta$ represents the "Precision" which is $\beta^{-1}=\sigma^2$
+	- It is common to evaluate the [[Probability Density Function]] using $\beta$ so that the equation simplifies:$\mathcal{N}(x; \mu, \beta^{-1}) = \sqrt{\beta/(2\pi)}exp(-1/2\beta(x-\mu)^2)$
+	- If nothing about some [[Probability Distribution]] is known it is reasonable to assume that it is normal
+		- This encodes the maximum uncertainty over $\mathbb{R}$ which means minimal assumptions
+	- The [[Standard Normal Distribution]] is a [[Gaussian Distribution]] where $\mu = 0, \sigma = 1$ 

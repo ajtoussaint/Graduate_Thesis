@@ -1,0 +1,2 @@
+- A [[Definite]] [[Matrix]] includes no 0s
+	- For a [[Positive]] [[Definite]] [[Matrix]] $x^TAx = 0 \therefore x=0$ 

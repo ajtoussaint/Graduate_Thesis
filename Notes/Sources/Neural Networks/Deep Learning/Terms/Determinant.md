@@ -1,0 +1,3 @@
+- A [[Determinant]] maps a [[Matrix]] to a real [[Scalar]] 
+	- It is the product of all the [[Eigenvalue|Eigenvalues]] $det(A) = \Pi_i \lambda_i$ 
+	- Measures how much the matrix multiplies the size of space

@@ -1,0 +1,2 @@
+- A [[Singular]] [[Matrix]] is a [[Square]] [[Matrix]] that also has [[Linear Independence]] 
+- A [[Matrix]] is [[Singular]] iff its [[Eigenvalue|eigenvalues]] are 0

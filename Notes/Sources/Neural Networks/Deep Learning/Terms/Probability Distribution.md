@@ -1,0 +1,1 @@
+- A [[Probability Distribution]] describes how likely a [[Random Variable]] is to take on each of the possible states it may have

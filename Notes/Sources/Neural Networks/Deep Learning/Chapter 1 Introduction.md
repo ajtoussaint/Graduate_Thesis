@@ -1,0 +1,18 @@
+- Computers understand knowledge as a hierarchy of concepts where simple concepts are combined to create more complicated ones
+- The knowledge base approach has failed in the past because it is too taxing to manually define all of the concepts and relations
+- [[Logistic Regression]] algorithms are used to recommend if a c-section should be performed
+- It is possible to divide a graph of concentric circles using a linear equation if you translate the values into polar coordinates
+- [[Representational Learning]] is when a machine learns to understand the representation of features from new data itself rather than being explicitly instructed.
+- An [[Autoencoder]] includes both an encoder and a decoder that are designed to preserve information and encode useful properties
+- [[Factors of Variation]] are latent factors that influence observed values which are typically not of interest to the model being designed. For example, the lighting when trying to decide if an image includes a car.
+- [[Deep Learning]] solves the problem of representation by the computer building a hierarchical model of information on its own.
+- Multilayer perceptron (MLP) is a mathematical function that maps inputs to outputs, an early form of deep learning
+- [[Visible Layer]] includes the raw inputs, [[Hidden Layer]] includes the intermediate steps taken by the machine model
+- Linear models cannot learn a XOR representation
+- [[Distributed Representation]] dictates that each input to a system should be described by many features
+- Kernel Machines and Graphical models are competitors to neural networks
+- more data will result in better models
+- acceptable performance is generally achieved at 5000 labeled examples and human performance at 10 million
+- Collobert, Ronan, Koray Kavukcuoglu, and Clément Farabet. "Torch7: A matlab-like environment for machine learning." _BigLearn, NIPS workshop_. 2011.
+	- A paper about pytorch
+[[Goodfellow, Bengio, Courville 2016]]

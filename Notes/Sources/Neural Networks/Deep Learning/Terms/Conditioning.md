@@ -1,0 +1,3 @@
+- [[Conditioning]] is how rapidly a function responds to input changes. (How much does a small change on input impact the output)
+	- [[Conditioning Number]] is the ratio of the largest to the smallest [[Eigenvalue]] in a [[Matrix]]
+		- When the CN is large the matrix is input sensitive and therefore has poor conditioning

@@ -1,0 +1,3 @@
+- [[Chain Rule]] (aka product rule) states that any [[Joint Probability Distribution]] over n [[Random Variable|random variables]] can decompose into [[Conditional Probability]] distributions over each random variable
+	- $P(x^{(1)}, ..., x^{(n)}) = P(x^{(1)}\Pi_{i=2}P(x^{(i)},...,x^{(i-1)})$ 
+	- $P(a,b,c) = P(a|bc)P(b|c)P(c)$

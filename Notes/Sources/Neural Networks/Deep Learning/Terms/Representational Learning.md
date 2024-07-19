@@ -1,0 +1,1 @@
+- A machine learns to understand the representation of features from new data itself rather than being explicitly instructed. For example learning to recognize wheels first and then using that knowledge to determine if a picture includes a car.

@@ -1,0 +1,2 @@
+- dictates that each input to a system should be described by many features
+- If you have a model that deals with red and blue shapes it should have a node for red, blue, and each type of shape rather than every possible combination of these features.

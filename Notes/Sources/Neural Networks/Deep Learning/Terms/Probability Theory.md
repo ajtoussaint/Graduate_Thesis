@@ -1,0 +1,1 @@
+- [[Probability Theory]] is a mathematical frame work for representing uncertainty that is responsible for both guiding AI behavior and evaluating AI performance

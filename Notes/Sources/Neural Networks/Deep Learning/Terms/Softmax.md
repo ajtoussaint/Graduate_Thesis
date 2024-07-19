@@ -1,0 +1,7 @@
+- [[Softmax]] function is used to stabilize against [[Underflow]] and [[Overflow]]
+	- $softmax(x)_i = \frac{exp(x_i)}{\sum^{n}_{j=1} exp(x_j)}$ 
+	- If all $x_i$ are the same and there are very many $x_i$ then $exp(x_i)$ may [[Underflow]]
+		- To solve this instead use $z =x - max_i x_i$ and solve $softmax(z)$ instead. Therefore the largest argument is 0 and the denominator will sum to 1
+		- Adding a [[Scalar]] value to softmax doesn't change the result
+	- log(softmax(x)) may still cause underflow but this can be fixed in the same way
+	- Usually a code library will handle all of this stabilization

@@ -1,0 +1,2 @@
+- The [[Laplace Distribution]] is a [[Probability Distribution]] with a sharp point at an arbitrary value $\mu$ 
+	- $Laplace(x;\mu,\gamma) = 1/(2\gamma)exp(-(\lvert x - \mu \rvert)/\gamma)$

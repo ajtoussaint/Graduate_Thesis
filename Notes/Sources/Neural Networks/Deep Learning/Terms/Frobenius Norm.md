@@ -1,0 +1,1 @@
+- The [[Frobenius Norm]] is aa [[Euclidian Norm]] for a [[Matrix]] : $\lVert A \rVert = \sqrt{\sum_{i,j}A_{i,j}^{2}}$ 

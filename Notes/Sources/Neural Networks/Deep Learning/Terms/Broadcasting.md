@@ -1,0 +1,2 @@
+- when a [[Vector]] or [[Scalar]] is assumed to be copied when added to a [[Matrix]] so that the shapes can be compatible
+- he diag operation [[Broadcasting|broadcasts]] a [[vector]] of length n into a n x n diagonal [[Matrix]]

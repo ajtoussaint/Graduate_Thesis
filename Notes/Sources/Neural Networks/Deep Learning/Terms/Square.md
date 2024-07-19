@@ -1,0 +1,1 @@
+- A [[Square]] [[Matrix]] has the same number of rows as columns

@@ -1,0 +1,3 @@
+- A [[Vector]] is [[Orthogonal]] to another vector when $x^Ty = 0$ 
+- A [[Matrix]] is [[Orthogonal]] in general when $A^{-1} = A^T$ 
+	- By definition an orthogonal matrix has orthogonal and [[Normal]] rows (orthonormal)

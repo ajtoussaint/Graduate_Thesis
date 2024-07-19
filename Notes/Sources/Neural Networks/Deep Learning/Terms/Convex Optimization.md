@@ -1,0 +1,3 @@
+- [[Convex Optimization]] is achieved when the [[Objective Function]] always has a [[Positive]] [[Semidefinite]] [[Hessian]] (convex hessian) and therefore no saddle points exist
+	- All local minimums are global minimums
+	- hard to fit to a deep learning problem

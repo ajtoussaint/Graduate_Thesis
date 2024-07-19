@@ -1,0 +1,3 @@
+- [[Cross Entropy]] is related to [[Kullback-Leibler Divergance]] in that minimizing cross entropy is equivalent to minimizing KLD
+	- By convention 0log(0) = 0
+	- $H(P,Q) = -\mathbb{E}_{x~P}log Q(x)$

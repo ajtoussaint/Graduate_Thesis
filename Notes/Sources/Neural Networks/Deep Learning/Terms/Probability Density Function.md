@@ -1,0 +1,4 @@
+- [[Probability Density Function]] describes probability for continuous variables
+	- Represented with lowercase "p"
+	- domain of p includes $\forall x \in x, p(x) \ge 0$ such that $\int p(x)dx = 1$ 
+	- The probability that a variable will fall within some range can be found with an integral: $p(x) \in \mathbb{S}, \mathbb{S} = [a,b] = \int_{a}^{b}p(x)dx$ 

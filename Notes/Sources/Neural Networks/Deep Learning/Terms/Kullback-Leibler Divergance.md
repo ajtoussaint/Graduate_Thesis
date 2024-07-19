@@ -1,0 +1,9 @@
+- [[Kullback-Leibler Divergance]] is a metric for measuring the difference in two [[Probability Distribution]] over some [[Random Variable]] x
+	- $D_{KL}(P||Q) = \mathbb{E}_{x~P}[log(\frac{P(x)}{Q(x)})] = \mathbb{E}_{x~P}[logP(x) - logQ(x)]$ 
+	- The KLD can be used to determine how many extra symbols it takes to send a message from P using a code that was optimized for Q
+	- 0 iff P = Q
+	- Always non-negative
+	- Not symmetric: $D_{KL}(P||Q) \ne D_{KL}(Q||P)$
+	- If p is a real value an q is an approximation
+		- Use DKL(p||q) to place a high probability for the approximation anywhere the true distribution does
+		- Use DKL(q||p) to avoid placing a high probability for the approximation anywhere the true distribution is low

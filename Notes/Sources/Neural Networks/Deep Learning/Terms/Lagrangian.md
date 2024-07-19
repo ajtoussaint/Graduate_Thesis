@@ -1,0 +1,1 @@
+- a single function that incorporates the original [[Objective Function]] as well as the [[Constrained Optimization|constraints]] into a single function

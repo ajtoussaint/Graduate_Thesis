@@ -1,0 +1,2 @@
+- [[Independent Variables]] have no effect on each other's probability
+	- $\forall x \in x, y \in y, p(x=x,y=y) = p(x=x)p(y=y)$ sometimes written $x|y$ 

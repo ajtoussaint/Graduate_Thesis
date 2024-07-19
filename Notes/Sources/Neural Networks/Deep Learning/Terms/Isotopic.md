@@ -1,0 +1,1 @@
+ An [[Isotopic]] [[Matrix]] is a [[Scalar]] value multiplied by the [[Identity Matrix]]

@@ -1,0 +1,3 @@
+- [[Conditionally Independent Variables]] have no effect on each other's probability within a given value of some other variable "z"
+	- $p(x=x, y=y|z=z) = p(x=x)p(y=y)$ written $x \perp y | z$ 
+	- Consider the probability of having a certain gene (x), the probability of having a certain disease (z) and the probability of exhibiting some symptom (y). When all variables are considered it seems that those with the gene may be more likely to have a symptom. When the disease variable is kept constant though, it can be shown that the symptom only occurs because of the disease and it makes no difference if you have the gene unless you get the disease.

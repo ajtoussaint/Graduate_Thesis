@@ -1,0 +1,1 @@
+- A [[Latent Variable]] is an unobservable [[Random Variable]]

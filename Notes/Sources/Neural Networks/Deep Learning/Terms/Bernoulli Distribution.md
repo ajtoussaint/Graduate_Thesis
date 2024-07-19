@@ -1,0 +1,6 @@
+- The [[Bernoulli Distribution]]  is a [[Probability Distribution]] that models a single binary [[Random Variable]]
+	- $\phi \in [0,1] = P(x=1)$ 
+	- $P(x=0) = 1 - \phi$ 
+	- $P(x=x) = \phi^{x}(1-\phi)^{1-x}$
+	- $\mathbb{E}_x[x]=\phi$
+	- $Var_x(x) = \phi(1-\phi)$ 

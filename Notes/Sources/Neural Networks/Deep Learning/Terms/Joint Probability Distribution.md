@@ -1,0 +1,1 @@
+A [[Joint Probability Distribution]] is a [[Probability Mass Function]] acting on many variables at once: P(x,y)

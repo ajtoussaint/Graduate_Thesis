@@ -1,0 +1,8 @@
+- [[Multivariate Normal Distribution]] is a [[Gaussian Distribution]] generalized to $\mathbb{R}^2$ 
+	- $\mathcal{N}(x;\mu,\Sigma)=\sqrt{1/(2\pi)^n det(\sigma)} exp(-1/2(x-\mu)^T \sigma^{-1}(x-\mu))$
+	- $\mu$ is the mean as a vector
+	- $\Sigma$ is the [[Covariance Matrix]] 
+	- The precision matrix $\beta^{-1} = \Sigma$ can be used for easier evaluation of 
+		- $\Sigma$ is usually [[Diagonal]] or [[Isotopic]]
+			- An [[Isotopic]] [[Matrix]] is a [[Scalar]] value multiplied by the [[Identity Matrix]]
+	- the [[Probability Density Function]] similar to with a [[Gaussian Distribution]]

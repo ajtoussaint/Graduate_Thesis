@@ -1,0 +1,2 @@
+- The [[Squared L2 Norm]] is equivalent to the [[Euclidian Norm]] squared  $\lVert x \rVert^2 = x^{T}x$ 
+	- The derivative of the [[Squared L2 Norm]] depends only on $x_i$ not the entire vector

@@ -1,0 +1,2 @@
+- A [[Posterior Probability]] is computed from the [[Prior Probability]] after observation
+	- $P(c|x)$ 

@@ -1,0 +1,2 @@
+- [[Standard Deviation]] is $\sqrt{Var(f(x))}$ 
+	- where var is the [[Variance]]

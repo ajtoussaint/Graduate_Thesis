@@ -1,0 +1,4 @@
+- A [[Norm]] is a function to measure vector size
+	- In general an $L^{p}$ norm is a norm defined by $\lVert x \rVert _p = (\sum_i \lvert x \rvert ^p)^{1/p}$ 
+	- However, it can be any function where $f(0) = 0$, $f(x + y) \le f(x) + f(y)$ , and $\forall \alpha \in \mathbb{R}, f(\alpha x ) = \lvert \alpha \rvert f(x)$ 
+	- The Max Norm L$\infty$ Norm is simply the absolute value of the largest element in a [[Vector]]

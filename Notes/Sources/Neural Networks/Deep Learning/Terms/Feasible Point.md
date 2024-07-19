@@ -1,0 +1,1 @@
+- [[Feasible Point]] is a point within the subset $\mathbb{S}$ that may be applied to the function in a [[Constrained Optimization]] problem

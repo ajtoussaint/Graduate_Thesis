@@ -1,0 +1,2 @@
+- [[Underflow]] occurs when a small number is rounded to 0
+	- Causes divide by 0 errors and also errors when attempting to take the log of 0

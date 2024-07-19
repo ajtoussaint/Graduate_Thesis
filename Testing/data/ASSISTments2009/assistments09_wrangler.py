@@ -4,16 +4,16 @@
 # In[1]:
 
 
-path = "" # post examen change to "/data/ASSISTments2009/"
-input_file = path + "assistments_2009_2010.csv"
-q_matrix_output_file = path + "q_matrix.csv"
-response_matrix_output_file = path + "response_matrix.csv"
+import os
+path = os.path.abspath('.') #path from main file
+input_file = os.path.join(path, "assistments_2009_2010.csv")
+q_matrix_output_file = os.path.join(path, "q_matrix.csv")
+response_matrix_output_file = os.path.join(path, "response_matrix.csv")
 
 
 # In[2]:
 
 
-import os
 import pandas as pd
 import numpy as np
 
@@ -54,7 +54,7 @@ def wrangle(overwrite=False):
     else:
         print("Using pre-existing wrangled data")
 
-wrangle() #remove post examen
+#wrangle()
 
 
 # In[3]:

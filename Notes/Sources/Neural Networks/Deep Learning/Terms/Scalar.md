@@ -1,0 +1,1 @@
+- is a number represented in lower case italics 

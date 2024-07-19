@@ -1,0 +1,6 @@
+- [[Critical Point]] is a point on a function where $f'(x) = 0$ so there is no information about which direction needs to be traveled. 
+	- For an n-dimensional function the point occurs when each $\nabla = 0$ ([[Gradient]] vector)
+	- Can be a local min/max or a saddle point
+	- Local min/max makes it no longer possible to use the incremental approach and _may_ be the true optimal solution.
+	- Often times you will need to settle for a good low point that is not the global minimum
+	- For functions with multiple input variables the partial derivatives are each analyzed independently

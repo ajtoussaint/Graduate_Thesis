@@ -1,0 +1,1 @@
+- are latent factors that influence observed values which are typically not of interest to the model being designed. For example, the lighting when trying to decide if an image includes a car.

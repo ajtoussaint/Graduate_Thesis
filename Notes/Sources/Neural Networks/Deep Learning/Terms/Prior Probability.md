@@ -1,0 +1,2 @@
+- A [[Prior Probability]] describes the belief about distribution $i$ before any observation.
+	- $\alpha_i = P(c=i)$

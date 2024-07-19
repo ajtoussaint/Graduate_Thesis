@@ -1,0 +1,1 @@
+- [[Hill Climbing]] is [[Gradient Descent]] generalized to discrete spaces

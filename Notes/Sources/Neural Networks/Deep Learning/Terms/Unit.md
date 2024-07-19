@@ -1,0 +1,1 @@
+- A [[Unit]] [[Vector]] is a vector where $\lVert x \rVert = 1$ 

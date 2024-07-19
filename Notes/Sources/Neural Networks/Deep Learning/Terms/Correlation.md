@@ -1,0 +1,1 @@
+- [[Correlation]] is a metric used to measure the relation of variables similar to [[Covariance]] but [[Correlation]] is normalized to not be impacted by scale

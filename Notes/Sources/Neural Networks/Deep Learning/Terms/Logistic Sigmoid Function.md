@@ -1,0 +1,4 @@
+- [[Logistic Sigmoid Function]] can be used to produce the $\phi$ of a [[Bernoulli Distribution]]
+	- $\sigma(x) = \frac{1}{1+ exp(-x)}$ 
+	- Range is (0,1)
+	- The function saturates and becomes insensitive to changes when the value of x is large (flat curve)

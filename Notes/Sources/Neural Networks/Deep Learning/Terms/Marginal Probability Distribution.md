@@ -1,0 +1,2 @@
+- [[Marginal Probability Distribution]] is the probability distribution for a subset of [[Random Variable|random variables]] $\forall x \in x, P(x = x) = \sum_{y}P(x=x, y=y)$ 
+	- For continuous: $\forall x \in x, P(x = x) =\int p(x,y)dy$ 

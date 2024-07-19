@@ -1,0 +1,5 @@
+-  in the context of linear algebra can be defined as $Ax = b$ where A is a known matrix, b is a known vector, and x is an unknown vector
+	- A system has either 0, 1, or infinitely many solutions
+- To solve a [[System of Linear Equations]] is to evaluate what [[Vector]] b is in the [[Range]] of [[Matrix]] A
+- For a [[System of Linear Equations]] to have a solution for all $b \in \mathbb{R}^{m}$ the [[Range]] of A must be all $\mathbb{R}^{m}$ and therefore must have at least m columns
+- A [[System of Linear Equations]] can only be solved by inversion if A is [[Square]] and **not** [[Singular]]

@@ -1,0 +1,3 @@
+- [[Variance]] is a measure of how much random values of x differ from each other
+	- $Var(f(x)) = \mathbb{E}_x[f(x) - \mathbb{E}[f(x)]^2]$ 
+	- low variance means that values will be clustered close to the [[Expected Value]]

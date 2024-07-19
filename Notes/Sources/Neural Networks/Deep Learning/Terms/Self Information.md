@@ -1,0 +1,1 @@
+- [[Self Information]] or the quantity of information from a single observation is defined as $I(x) = -log(P(x))$ (using natural log)

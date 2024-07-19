@@ -1,0 +1,2 @@
+- [[Conditioning Number]] is the ratio of the largest to the smallest [[Eigenvalue]] in a [[Matrix]]
+		- When the CN is large the matrix is input sensitive and therefore has poor conditioning

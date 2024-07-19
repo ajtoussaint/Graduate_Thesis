@@ -1,0 +1,14 @@
+- A [[Structured Probabilistic Model]] aka a graph can represent the "factorization" of p with a graph
+	- Nodes = [[Random Variable]]
+	- Edges represent interaction
+- A Directed [[Structured Probabilistic Model]] has an arrow associated with each edge that represents the factorization into a conditional distribution
+	- $p(x) = \prod_{i}p(x_{i}|Pa_{\mathcal{G}}(x_i))$  
+	- $p(a,b,c,d,e) = p(a)p(b|a)p(c|a,b)p(d|a,b)p(d|b)p(e|c)$
+		- Each variable is "|" on the nodes pointing to it
+- An Undirected [[Structured Probabilistic Model]] factorizes into a set of functions:
+	- $P(x) =\frac{1}{Z}\prod_i\phi^{(i)}(C^{(i)})$
+	- $p(a,b,c,d,e) = \frac{1}{Z}\phi^{(1)}(a,b,c)\phi^{(2)}(b,d)\phi^{(3)}(c,e)$ 
+	- A clique is a set of nodes which are connected in the graph, each clique has a "factor" $\phi$ which is a non-negative [[Scalar]]
+	- The probability of any given configuration of [[Random Variable]] is proportional to the product of $\phi$ (not necessarilly 1)
+	- Z is the sum (or integral) of all states which is used to normalize the function
+- Directed vs. undirected [[Structured Probabilistic Model|SPMs]] are just different ways of representing the same thing.

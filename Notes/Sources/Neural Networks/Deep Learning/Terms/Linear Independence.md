@@ -1,0 +1,2 @@
+ A [[Matrix]] has [[Linear Independence]] when no columns are redundant ([[Linear Dependence|linearly dependent]])
+ - For A to encompass  $\mathbb{R}^{m}$ it must have **exactly** m [[Linear Dependence|linearly independent]] columns

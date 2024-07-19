@@ -1,0 +1,2 @@
+- Optimization methods that only consider the first derivative are [[First Order Optimization]]
+- Ex: [[Gradient Descent]]

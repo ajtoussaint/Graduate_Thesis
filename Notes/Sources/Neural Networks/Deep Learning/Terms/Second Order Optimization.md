@@ -1,0 +1,1 @@
+-  Optimization methods that involve the [[Hessian]] are [[Second Order Optimization]] because they take into consideration the second derivatives of the [[Objective Function]]

@@ -1,0 +1,5 @@
+- The [[Empirical Distribution]] is a [[Probability Distribution]] with a probability mass of 1/m on each of m points.
+	- $\hat{p}(x) = \frac{1}{m}\sum_{i=1}^m\delta(x-x^{(i)})$ 
+		- Where $\delta$ is the [[Dirac Delta Function]]
+	- Essentially [[Multinoulli Distribution]] for continuous variables
+	- Usually associated with a real training dataset because it perfectly maximizes the likelihood of training data in a continuous distribution.

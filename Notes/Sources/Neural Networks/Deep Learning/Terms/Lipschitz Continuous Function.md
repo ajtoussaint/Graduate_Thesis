@@ -1,0 +1,4 @@
+- [[Lipschitz Continuous Function]] is a function whos rate of change is bound by $\mathcal{L}$ (the Lipschitz Constant)
+	- $\forall x, \forall y, \lvert f(x) - f(y) \rvert \le \mathcal{L} \lVert x - y \rVert_2$ 
+	- qualifies that a small change in input can only result in a small change in output
+	- Any problem can be modified to adhere to a Lipschitz Constant

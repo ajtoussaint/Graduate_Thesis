@@ -1,0 +1,4 @@
+- [[Expected Value]] is the average of a [[Probability Distribution]] or the value we could most likely expect on a single sample
+	- $\mathbb{E}_{x~p}[f(x)] = \sum_{x} P(x)f(x)$ or $\int p(x)f(x)$ 
+	- Expected values are linear and have the properties of linear equations when combined or modified:
+		- $\mathbb{E}_x[\alpha f(x)+ \beta g(x)] = \alpha \mathbb{E}_x[f(x)] + \beta \mathbb{E}_x[g(x)]$ 

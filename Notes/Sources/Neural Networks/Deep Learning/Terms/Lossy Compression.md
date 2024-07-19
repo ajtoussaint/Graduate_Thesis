@@ -1,0 +1,1 @@
+- [[Lossy Compression]] means information is stored with less memory at the cost of losing some information

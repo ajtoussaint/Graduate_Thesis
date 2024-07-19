@@ -1,0 +1,10 @@
+- [[Logit]] is $\sigma^{-1}(x)$ where $\sigma$ is the derivative of the [[Softplus Function]] 
+	- $\sigma(x) = \frac{exp(x)}{exp(x) +exp(0)}$
+	- $\frac{d}{dx}\sigma(x) = \sigma(x)(1 - \sigma(x))$
+	- $1 - \sigma(x) = \sigma(-x)$
+	- $log(\sigma(x)) = -\zeta(-x)$
+	- $\frac{d}{dx}\zeta(x) = \sigma(x)$
+	- $\forall x \in (0,1), \sigma^{-1}(x) = log(\frac{x}{x-1})$
+	- $\forall x > 0, \zeta^{-1}(x) = log(exp(x) - 1)$
+	- $\zeta(x) = \int_{-\infty}^{x}\sigma(y)dy$
+	- $\zeta(x) - \zeta(-x) = x$ 

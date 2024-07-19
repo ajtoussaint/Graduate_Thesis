@@ -1,0 +1,1 @@
+- solves the problem of representation by the computer building a hierarchical model of information on its own.

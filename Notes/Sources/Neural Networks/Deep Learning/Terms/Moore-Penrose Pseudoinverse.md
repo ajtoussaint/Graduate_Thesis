@@ -1,0 +1,5 @@
+- [[Moore-Penrose Pseudoinverse]]: $A^{+} = \lim_{\alpha \to 0} (A^{T}A+\alpha I)^{-1}A^{T}$ so $A^{+} = VD^{+}U^{T}$ 
+	- Used for inverses of Rectangular [[Matrix|Matrices]] 
+	- $D^+$ is obtained from D by taking the reciprocal of its nonzero elements and then takin the [[Transpose]] of the resulting [[Matrix]]
+	- $x = A^{+}y$ when A has more columns then rows such that x is a solution with the minimum [[Euclidian Norm]] $\lVert x \rVert_2$ among all possible solutions
+	- If A has more rows than columns may be no solution, but we get the closest possible solution based on $\lVert Ax-y \rVert_2$ 

@@ -1,0 +1,1 @@
+- The [[Standard Normal Distribution]] is a [[Gaussian Distribution]] where $\mu = 0, \sigma = 1$ 

@@ -1,0 +1,3 @@
+- The [[Range]] of a  [[Matrix]] is the [[Span]] of the columns of that matrix.
+- To solve a [[System of Linear Equations]] is to evaluate what [[Vector]] b is in the [[Range]] of [[Matrix]] A
+-  For a [[System of Linear Equations]] to have a solution for all $b \in \mathbb{R}^{m}$ the [[Range]] of A must be all $\mathbb{R}^{m}$ and therefore must have at least m columns

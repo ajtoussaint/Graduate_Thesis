@@ -1,0 +1,4 @@
+- a [[Matrix]] defined as $A^{-1}$  and $A^{-1}A=I_n$ 
+	- This property is used to solve a [[System of Linear Equations]] $x = A^{-1}b$ 
+	- $A^{-1}$ is not typically used in computers practically speaking
+- For A to have an [[Inverse Matrix]] to itself $Ax=b$ must have at **most** one solution, therefore A must have at most m columns

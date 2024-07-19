@@ -1,0 +1,3 @@
+- The [[Dirac Delta Function]] clusters mass in the [[Probability Distribution]] around a point, $\mu$ 
+	- $p(x) = \delta(x-\mu)$ 
+	- The function is 0 everywhere but integrates to 1. It is a generalized function defined by this property

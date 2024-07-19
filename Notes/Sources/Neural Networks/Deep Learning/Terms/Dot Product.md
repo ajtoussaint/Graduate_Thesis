@@ -1,0 +1,1 @@
+- $x \cdot y = xy^T$ for vectors x and y. has the commutative property

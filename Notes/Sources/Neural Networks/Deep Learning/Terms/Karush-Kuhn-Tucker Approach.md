@@ -1,0 +1,10 @@
+- The [[Karush-Kuhn-Tucker Approach]] is a method for solving [[Convex Optimization]] problems
+	- Define $\mathbb{S}$ such that $\mathbb{S} = \{x|\forall i, g^{(i)}(x) = 0$ and $\forall j, h^{(j)}(x) \le 0\}$  
+	- the $g^{(i)}$ equations are equality constraints
+	- the $h^{(i)}$ are inequality constraints. Inequality constraints are only active if $h^{(i)}(x^*) = 0$ 
+		- If a constraint is not active then the solution found using that constraint would remain at least a local solution if that constraint were removed.
+		- For all $i$ at least one of the constraints $\alpha_i \ge 0$ or $h^{(i)}(x) \le 0$ must be "active"
+	- Define a generalized [[Lagrangian]]: $L(x, \lambda, \alpha) = f(x) + \sum_i \lambda_i g^{(i)}(x) + \sum_i \alpha_j h^{(j)}(x)$ 
+		- As long as there are [[Feasible Point|feasible points]] where $x \ne \infty$ the [[Constrained Optimization]] problem can be solved by solving the unconstrained [[Lagrangian]]
+	- The optimal solution will be on a boundary of the constraint or constraining the problem makes no difference than finding an unconstrained solution.
+	- The solution is found when $\nabla Lagrange = 0$ , all constraints are satisfied, and $\alpha \odot h(x) = 0$ 

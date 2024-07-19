@@ -1,0 +1,1 @@
+- [[Almost Everywhere]] is a specific math term used to describe all of a space except for [[Measure Zero]]

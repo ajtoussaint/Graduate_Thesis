@@ -1,0 +1,4 @@
+- [[Newton's Method]] is a form of[[Gradient Descent]] that uses information in the [[Hessian]] to guide the descent
+	- $x^*=x^{(0)}-H(f)(x^{(0)})^{-1}\nabla_xf(x^{(0)})$ can be applied to jump directly to the minimum if f is quadratic
+	- If f approximates a  quadratic this approach can be applied iteratively
+	- This is faster than [[Gradient Descent]] but can get stuck on saddle points

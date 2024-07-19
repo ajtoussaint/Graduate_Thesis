@@ -1,0 +1,6 @@
+- A [[Matrix]] undergoes [[Eigendecomposition]] by the following equation: $A = Vdiag(\lambda)V^{-1}$ 
+	- V is a matrix where each column is an [[Eigenvector]] of A
+	- Sometimes this only works with use of complex numbers
+	- Every real [[Symmetric]] [[Matrix]] can be decomposed into this form of expression using only real [[Eigenvector|eigenvectors]] and [[Eigenvalue|eigenvalues]]: $A = Q\Lambda Q^{T}$ 
+		- Q is an [[Orthogonal]] [[Matrix]] of [[Eigenvector|eigenvectors]] and $\Lambda$ is a [[Diagonal]] [[Matrix]] of [[Eigenvalue|eigenvalues]] where the value in column i and row i represents the [[Eigenvalue]] of column i of Q
+		- It is convention to sort $\Lambda$ by ascending [[Eigenvalue|eigenvalues]] so that the [[Eigendecomposition]] of a real [[Symmetric]] [[Matrix]] is only unique if the [[Eigenvalue|eigenvalues]] of the matrix are unique

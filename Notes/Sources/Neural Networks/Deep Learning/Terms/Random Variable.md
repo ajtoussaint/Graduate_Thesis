@@ -1,0 +1,2 @@
+- A [[Random Variable]] is a variable that takes on different values randomly. It is usually represented with lowercase plain type
+	- The possible values of a given variable are indicated by script font with numbered subscript: $x_1, x_2$ 

@@ -1,0 +1,6 @@
+- [[Covariance]] measures linear relation and and scale of values
+	- $Cov(f(x),g(y)) = \mathbb{E}[(f(x) - \mathbb{E}[f(x)])(g(y) - \mathbb{E}[g(y)])]$ 
+	- A covariance with a high absolute value indicates that values of each function change a lot and are far from their respective  averages
+	- A positive covariance indicates values for each function are simultaneously high and low while negative implies that they are opposites
+	- [[Independent Variables]] have a covariance of 0 there must be no [[Linear Dependence]] for this to work.
+		- Dependent variables can have 0 [[Covariance]] if the relation is non linear

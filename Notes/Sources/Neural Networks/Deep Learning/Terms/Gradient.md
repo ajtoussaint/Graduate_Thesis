@@ -1,0 +1,2 @@
+- [[Gradient]] is a vector containing all the partial first derivatives of a function
+	- $\nabla_xf(x)$

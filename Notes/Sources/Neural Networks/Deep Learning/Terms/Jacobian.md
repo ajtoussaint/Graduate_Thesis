@@ -1,0 +1,4 @@
+- The [[Jacobian]] [[Matrix]] contains the partial derivatives of a function that has [[Vector|vectors]] as the inputs and outputs of the function
+	- The function:$f:\mathbb{R}^m \to \mathbb{R}^n$ 
+	- Jacobian: $J \in \mathbb{R}^{n\times m}$ such that $J_{i,j} = \frac{\partial}{\partial x_j}f(x)_i$ 
+- The [[Hessian]] is the [[Jacobian]] of the [[Gradient]]

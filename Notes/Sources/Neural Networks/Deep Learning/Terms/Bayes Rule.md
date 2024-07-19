@@ -1,0 +1,4 @@
+- [[Bayes Rule]] is used to find the probability of y given x if we know the probability of x given y
+	- $P(x|y) = \frac{P(x)P(y|x)}{P(y)}$ 
+	- In most situations one can compute P(y)
+		- $P(y) = \sum_xP(y|x)P(x)$

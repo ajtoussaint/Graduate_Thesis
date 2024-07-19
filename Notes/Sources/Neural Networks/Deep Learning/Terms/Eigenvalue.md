@@ -1,0 +1,2 @@
+- The ratio by which an [[Eigenvector]] is scaled by when multiplied by its corresponding [[Matrix]]
+- $Av = \lambda v$ ($v$ is the [[Eigenvector]] and $\lambda$ is an [[Eigenvalue]]) 

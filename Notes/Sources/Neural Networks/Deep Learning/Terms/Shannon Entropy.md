@@ -1,0 +1,6 @@
+- [[Shannon Entropy]] is the uncertainty within an entire [[Probability Distribution]]
+	- $H(x) = \mathbb{E}_{x~p}[I(x)] = -\mathbb{E}_{x~p}[log(P(x))]$ 
+	- This is the expected amount of information from sampling
+	- The lower bound is the number of bits to encode a symbol drawn from P
+	- [[Differential Entropy]] is [[Shannon Entropy]] for continuous [[Random Variable]]
+	- Low entropy systems are easier to predict

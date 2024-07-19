@@ -1,0 +1,1 @@
+-  [[Differential Entropy]] is [[Shannon Entropy]] for continuous [[Random Variable]]
