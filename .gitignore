@@ -1,2 +1,3 @@
 Notes/Sources/pdfs/
-Testing/**/*.csv
+Testing/data/*.csv
+Testing/models/*.csv

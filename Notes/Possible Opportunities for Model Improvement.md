@@ -9,5 +9,6 @@
 - Often times the questions with the highest discrimination are the least useful in practice
 - Improve performance by mining the interrelations of concepts and excluding spaces in the Q matrix where concepts never overlap. Alternatively mine the relationships between concepts based on where and how often they overlap
 	- This might already happen in [[Chen, Xiangzhi, et al. 2024]]
+- [[IRT]] shows much lower accuracy than AUC on weak coverage split, maybe I can mine a cutoff, may not be a problem with neural models though
 ## Implemented improvements
 - reduced underflow in IRT model by stabilizing the update of the prior distribution
